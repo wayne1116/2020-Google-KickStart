@@ -3,7 +3,7 @@ This project includes my solutions for Google Kick Start with c++.
 
 ## 2020
 
-### [Round A](https://github.com/wayne1116/2020_Google_KickStart/tree/master/RoundA)
+### [Round A](https://github.com/wayne1116/2020-Google-KickStart/tree/master/RoundA)
 - Allocation
 - Plates
 - Workout
